@@ -1,0 +1,3570 @@
+{
+    "nodes": {
+        "12388528": {
+            "name": "Châtillon-Montrouge",
+            "latitude": 48.8108097,
+            "longitude": 2.3015874
+        },
+        "12388534": {
+            "name": "Malakoff - Rue Étienne Dolet",
+            "latitude": 48.8153367,
+            "longitude": 2.2970255
+        },
+        "27332092": {
+            "name": "Esplanade de La Défense",
+            "latitude": 48.8882396,
+            "longitude": 2.2494747
+        },
+        "27362238": {
+            "name": "Les Sablons",
+            "latitude": 48.8810615,
+            "longitude": 2.2720961
+        },
+        "27362240": {
+            "name": "Argentine",
+            "latitude": 48.8755816,
+            "longitude": 2.2893655
+        },
+        "27362249": {
+            "name": "George V",
+            "latitude": 48.8720688,
+            "longitude": 2.3004269
+        },
+        "27362251": {
+            "name": "Franklin D. Roosevelt",
+            "latitude": 48.8690339,
+            "longitude": 2.3099266
+        },
+        "27362257": {
+            "name": "Concorde",
+            "latitude": 48.8661544,
+            "longitude": 2.3221445
+        },
+        "27362258": {
+            "name": "Tuileries",
+            "latitude": 48.864248,
+            "longitude": 2.3304389
+        },
+        "27362259": {
+            "name": "Palais Royal - Musée du Louvre",
+            "latitude": 48.8623926,
+            "longitude": 2.3363491
+        },
+        "27362260": {
+            "name": "Louvre — Rivoli",
+            "latitude": 48.8608027,
+            "longitude": 2.3411235
+        },
+        "27371862": {
+            "name": "Châtelet",
+            "latitude": 48.8587782,
+            "longitude": 2.3474106
+        },
+        "27371867": {
+            "name": "Saint-Paul",
+            "latitude": 48.8553789,
+            "longitude": 2.3603522
+        },
+        "27371876": {
+            "name": "Bastille",
+            "latitude": 48.8520122,
+            "longitude": 2.3686542
+        },
+        "27371889": {
+            "name": "Gare de Lyon (métro 1)",
+            "latitude": 48.8459232,
+            "longitude": 2.3741911
+        },
+        "27371892": {
+            "name": "Reuilly — Diderot",
+            "latitude": 48.8473591,
+            "longitude": 2.3868055
+        },
+        "27371900": {
+            "name": "Porte de Vincennes",
+            "latitude": 48.8473335,
+            "longitude": 2.4080861
+        },
+        "29588070": {
+            "name": "Marcel Sembat",
+            "latitude": 48.8336468,
+            "longitude": 2.2435931
+        },
+        "34909170": {
+            "name": "La Motte-Picquet - Grenelle",
+            "latitude": 48.8489809,
+            "longitude": 2.2981916
+        },
+        "34909171": {
+            "name": "Cambronne",
+            "latitude": 48.8475338,
+            "longitude": 2.3029524
+        },
+        "34909187": {
+            "name": "Dupleix",
+            "latitude": 48.8504212,
+            "longitude": 2.2936685
+        },
+        "134299001": {
+            "name": "Mairie d'Issy",
+            "latitude": 48.8241474,
+            "longitude": 2.2731713
+        },
+        "134299013": {
+            "name": "Corentin Celton",
+            "latitude": 48.8270526,
+            "longitude": 2.2793746
+        },
+        "134305192": {
+            "name": "Porte de Versailles",
+            "latitude": 48.8324292,
+            "longitude": 2.2879898
+        },
+        "134305198": {
+            "name": "Convention",
+            "latitude": 48.8373091,
+            "longitude": 2.2966292
+        },
+        "137533248": {
+            "name": "La Défense - Grande Arche",
+            "latitude": 48.8919677,
+            "longitude": 2.2377691
+        },
+        "220289379": {
+            "name": "Porte d'Orléans",
+            "latitude": 48.8236371,
+            "longitude": 2.3256398
+        },
+        "220289382": {
+            "name": "Alésia",
+            "latitude": 48.8280318,
+            "longitude": 2.3270406
+        },
+        "220289385": {
+            "name": "Mouton-Duvernet",
+            "latitude": 48.8312847,
+            "longitude": 2.3298549
+        },
+        "220289387": {
+            "name": "Denfert-Rochereau",
+            "latitude": 48.8342613,
+            "longitude": 2.3326258
+        },
+        "220289389": {
+            "name": "Raspail",
+            "latitude": 48.8389619,
+            "longitude": 2.3307591
+        },
+        "235369898": {
+            "name": "Saint-Jacques",
+            "latitude": 48.8330168,
+            "longitude": 2.3366295
+        },
+        "235370184": {
+            "name": "Glacière",
+            "latitude": 48.8311288,
+            "longitude": 2.3434842
+        },
+        "235370505": {
+            "name": "Corvisart",
+            "latitude": 48.8297785,
+            "longitude": 2.3504704
+        },
+        "235371392": {
+            "name": "Place d'Italie",
+            "latitude": 48.8308786,
+            "longitude": 2.3558807
+        },
+        "235371394": {
+            "name": "Nationale",
+            "latitude": 48.8331986,
+            "longitude": 2.3628553
+        },
+        "235371395": {
+            "name": "Chevaleret",
+            "latitude": 48.8349549,
+            "longitude": 2.3680817
+        },
+        "235374383": {
+            "name": "Quai de la Gare",
+            "latitude": 48.8370762,
+            "longitude": 2.3729066
+        },
+        "235377792": {
+            "name": "Stalingrad",
+            "latitude": 48.8842416,
+            "longitude": 2.3670741
+        },
+        "241928557": {
+            "name": "Nation",
+            "latitude": 48.847611,
+            "longitude": 2.3955668
+        },
+        "241928757": {
+            "name": "Château de Vincennes",
+            "latitude": 48.8445799,
+            "longitude": 2.438912
+        },
+        "241928758": {
+            "name": "Bérault",
+            "latitude": 48.8454473,
+            "longitude": 2.4292637
+        },
+        "243357000": {
+            "name": "Buttes Chaumont",
+            "latitude": 48.8783952,
+            "longitude": 2.3811887
+        },
+        "243358029": {
+            "name": "Bolivar",
+            "latitude": 48.8809263,
+            "longitude": 2.3739077
+        },
+        "243486950": {
+            "name": "Buzenval",
+            "latitude": 48.8518166,
+            "longitude": 2.4013757
+        },
+        "243487863": {
+            "name": "Saint-Mandé",
+            "latitude": 48.846435,
+            "longitude": 2.4184422
+        },
+        "243489718": {
+            "name": "Avron",
+            "latitude": 48.8520027,
+            "longitude": 2.3979296
+        },
+        "243490761": {
+            "name": "Ménilmontant",
+            "latitude": 48.8663246,
+            "longitude": 2.3836703
+        },
+        "243490762": {
+            "name": "Père Lachaise",
+            "latitude": 48.8629496,
+            "longitude": 2.3874348
+        },
+        "243490763": {
+            "name": "Philippe Auguste",
+            "latitude": 48.8582563,
+            "longitude": 2.3901666
+        },
+        "243490764": {
+            "name": "Alexandre Dumas",
+            "latitude": 48.8559237,
+            "longitude": 2.3949195
+        },
+        "243493845": {
+            "name": "Belleville",
+            "latitude": 48.8719933,
+            "longitude": 2.3770318
+        },
+        "243493846": {
+            "name": "Couronnes",
+            "latitude": 48.8690435,
+            "longitude": 2.3805811
+        },
+        "243493916": {
+            "name": "Colonel Fabien",
+            "latitude": 48.8774215,
+            "longitude": 2.3710197
+        },
+        "243496025": {
+            "name": "Blanche",
+            "latitude": 48.8834886,
+            "longitude": 2.3336343
+        },
+        "243496027": {
+            "name": "Place de Clichy",
+            "latitude": 48.8834316,
+            "longitude": 2.3272272
+        },
+        "243496028": {
+            "name": "Rome",
+            "latitude": 48.8822428,
+            "longitude": 2.3213306
+        },
+        "243496029": {
+            "name": "Villiers",
+            "latitude": 48.8811192,
+            "longitude": 2.3149051
+        },
+        "243496030": {
+            "name": "Monceau",
+            "latitude": 48.8802919,
+            "longitude": 2.3085925
+        },
+        "243496729": {
+            "name": "Porte Dauphine",
+            "latitude": 48.871318,
+            "longitude": 2.2777713
+        },
+        "243507233": {
+            "name": "Gallieni",
+            "latitude": 48.8653357,
+            "longitude": 2.416682
+        },
+        "243507234": {
+            "name": "Porte de Bagnolet",
+            "latitude": 48.8645859,
+            "longitude": 2.408809
+        },
+        "243507789": {
+            "name": "Rue Saint-Maur",
+            "latitude": 48.8643338,
+            "longitude": 2.3794812
+        },
+        "243507790": {
+            "name": "Parmentier",
+            "latitude": 48.8653786,
+            "longitude": 2.3739112
+        },
+        "243507792": {
+            "name": "Temple",
+            "latitude": 48.8664748,
+            "longitude": 2.3606333
+        },
+        "243507793": {
+            "name": "Arts et Métiers",
+            "latitude": 48.8654414,
+            "longitude": 2.3561316
+        },
+        "243507794": {
+            "name": "Réaumur - Sébastopol",
+            "latitude": 48.8662385,
+            "longitude": 2.3525513
+        },
+        "243510334": {
+            "name": "Bourse",
+            "latitude": 48.8686296,
+            "longitude": 2.3414739
+        },
+        "243510335": {
+            "name": "Quatre Septembre",
+            "latitude": 48.8695001,
+            "longitude": 2.3366804
+        },
+        "243510336": {
+            "name": "Opéra",
+            "latitude": 48.8706778,
+            "longitude": 2.3323554
+        },
+        "243510337": {
+            "name": "Havre - Caumartin",
+            "latitude": 48.8736792,
+            "longitude": 2.3273189
+        },
+        "243510678": {
+            "name": "Malesherbes",
+            "latitude": 48.8828567,
+            "longitude": 2.3092267
+        },
+        "243510679": {
+            "name": "Wagram",
+            "latitude": 48.884005,
+            "longitude": 2.3037188
+        },
+        "243510680": {
+            "name": "Péreire",
+            "latitude": 48.8847004,
+            "longitude": 2.2989827
+        },
+        "243510681": {
+            "name": "Porte de Champerret",
+            "latitude": 48.8859272,
+            "longitude": 2.2934906
+        },
+        "244494486": {
+            "name": "Vaugirard",
+            "latitude": 48.8395785,
+            "longitude": 2.3012923
+        },
+        "244494489": {
+            "name": "Volontaires",
+            "latitude": 48.8415194,
+            "longitude": 2.3080031
+        },
+        "244494496": {
+            "name": "Falguière",
+            "latitude": 48.8443954,
+            "longitude": 2.3175634
+        },
+        "245250755": {
+            "name": "Duroc",
+            "latitude": 48.8468544,
+            "longitude": 2.3166375
+        },
+        "245250758": {
+            "name": "Saint-François-Xavier",
+            "latitude": 48.851398,
+            "longitude": 2.3144012
+        },
+        "245250759": {
+            "name": "Varenne",
+            "latitude": 48.8568023,
+            "longitude": 2.3150585
+        },
+        "245455187": {
+            "name": "Bel-Air",
+            "latitude": 48.8413343,
+            "longitude": 2.4008998
+        },
+        "249335596": {
+            "name": "Marx Dormoy",
+            "latitude": 48.8905061,
+            "longitude": 2.3599967
+        },
+        "249524554": {
+            "name": "Gabriel Péri",
+            "latitude": 48.9163969,
+            "longitude": 2.2946541
+        },
+        "251387813": {
+            "name": "Jacques Bonsergent",
+            "latitude": 48.8711191,
+            "longitude": 2.3607546
+        },
+        "255000799": {
+            "name": "Anatole France",
+            "latitude": 48.8920499,
+            "longitude": 2.2850318
+        },
+        "255160720": {
+            "name": "Croix de Chavaux",
+            "latitude": 48.857946,
+            "longitude": 2.4357587
+        },
+        "255160722": {
+            "name": "Mairie de Montreuil",
+            "latitude": 48.8625988,
+            "longitude": 2.441569
+        },
+        "255161921": {
+            "name": "Pont de Levallois – Bécon",
+            "latitude": 48.8971408,
+            "longitude": 2.2803973
+        },
+        "255162203": {
+            "name": "Louise Michel",
+            "latitude": 48.8882803,
+            "longitude": 2.2884734
+        },
+        "256441194": {
+            "name": "Maraîchers",
+            "latitude": 48.8526992,
+            "longitude": 2.4061094
+        },
+        "256442276": {
+            "name": "Porte de Montreuil",
+            "latitude": 48.8534759,
+            "longitude": 2.4105242
+        },
+        "256442845": {
+            "name": "Robespierre",
+            "latitude": 48.8558145,
+            "longitude": 2.4237108
+        },
+        "256443205": {
+            "name": "Rue des Boulets",
+            "latitude": 48.8525808,
+            "longitude": 2.3887914
+        },
+        "256443438": {
+            "name": "Charonne",
+            "latitude": 48.8547441,
+            "longitude": 2.3853565
+        },
+        "256895321": {
+            "name": "Voltaire",
+            "latitude": 48.858158,
+            "longitude": 2.3798044
+        },
+        "256895609": {
+            "name": "Saint-Ambroise",
+            "latitude": 48.8610516,
+            "longitude": 2.3747956
+        },
+        "256896059": {
+            "name": "Oberkampf",
+            "latitude": 48.8640529,
+            "longitude": 2.3694165
+        },
+        "256897077": {
+            "name": "Strasbourg - Saint-Denis",
+            "latitude": 48.8693002,
+            "longitude": 2.3542825
+        },
+        "256897078": {
+            "name": "Bonne Nouvelle",
+            "latitude": 48.8706233,
+            "longitude": 2.3487498
+        },
+        "256897079": {
+            "name": "Grands Boulevards",
+            "latitude": 48.8714412,
+            "longitude": 2.3434953
+        },
+        "256897080": {
+            "name": "Richelieu Drouot",
+            "latitude": 48.8718846,
+            "longitude": 2.3396056
+        },
+        "256897458": {
+            "name": "Chaussée d'Antin - La Fayette",
+            "latitude": 48.8729675,
+            "longitude": 2.3332567
+        },
+        "256897554": {
+            "name": "Saint-Augustin",
+            "latitude": 48.8746968,
+            "longitude": 2.3199277
+        },
+        "260078615": {
+            "name": "Cardinal Lemoine",
+            "latitude": 48.8465283,
+            "longitude": 2.351772
+        },
+        "260078619": {
+            "name": "Maubert Mutualité",
+            "latitude": 48.8499484,
+            "longitude": 2.3487756
+        },
+        "260078622": {
+            "name": "Cluny - La Sorbonne",
+            "latitude": 48.8510699,
+            "longitude": 2.344207
+        },
+        "260079008": {
+            "name": "Odéon",
+            "latitude": 48.8522428,
+            "longitude": 2.3393369
+        },
+        "260079322": {
+            "name": "Mabillon",
+            "latitude": 48.8528994,
+            "longitude": 2.3349474
+        },
+        "260231828": {
+            "name": "Balard",
+            "latitude": 48.8363968,
+            "longitude": 2.278379
+        },
+        "260231831": {
+            "name": "Lourmel",
+            "latitude": 48.8387364,
+            "longitude": 2.2821481
+        },
+        "260231832": {
+            "name": "Boucicaut",
+            "latitude": 48.8410837,
+            "longitude": 2.2879218
+        },
+        "260231833": {
+            "name": "Félix Faure",
+            "latitude": 48.8426775,
+            "longitude": 2.2917792
+        },
+        "260762378": {
+            "name": "Dugommier",
+            "latitude": 48.8390472,
+            "longitude": 2.3896692
+        },
+        "260762379": {
+            "name": "Daumesnil",
+            "latitude": 48.8395675,
+            "longitude": 2.3959529
+        },
+        "260762540": {
+            "name": "Bercy",
+            "latitude": 48.8401549,
+            "longitude": 2.3799474
+        },
+        "260763474": {
+            "name": "Edgar Quinet",
+            "latitude": 48.8411108,
+            "longitude": 2.3250319
+        },
+        "260764273": {
+            "name": "Pasteur",
+            "latitude": 48.8429211,
+            "longitude": 2.3126058
+        },
+        "260765385": {
+            "name": "Kléber",
+            "latitude": 48.871677,
+            "longitude": 2.2935098
+        },
+        "260765387": {
+            "name": "Boissière",
+            "latitude": 48.8670167,
+            "longitude": 2.2900826
+        },
+        "260765390": {
+            "name": "Passy",
+            "latitude": 48.8575009,
+            "longitude": 2.285778
+        },
+        "260767422": {
+            "name": "Iéna",
+            "latitude": 48.8646725,
+            "longitude": 2.2937783
+        },
+        "260767423": {
+            "name": "Rue de la Pompe",
+            "latitude": 48.8640063,
+            "longitude": 2.2780859
+        },
+        "260767424": {
+            "name": "La Muette",
+            "latitude": 48.8580816,
+            "longitude": 2.2741958
+        },
+        "260767425": {
+            "name": "Ranelagh",
+            "latitude": 48.8555764,
+            "longitude": 2.2702166
+        },
+        "260767426": {
+            "name": "Jasmin",
+            "latitude": 48.8525598,
+            "longitude": 2.2681802
+        },
+        "260767427": {
+            "name": "Michel-Ange - Auteuil",
+            "latitude": 48.8479434,
+            "longitude": 2.2641344
+        },
+        "260767428": {
+            "name": "Michel-Ange - Molitor",
+            "latitude": 48.8452434,
+            "longitude": 2.261895
+        },
+        "260767429": {
+            "name": "Exelmans",
+            "latitude": 48.8430044,
+            "longitude": 2.2600472
+        },
+        "260767430": {
+            "name": "Porte de Saint-Cloud",
+            "latitude": 48.8377707,
+            "longitude": 2.2565741
+        },
+        "260769132": {
+            "name": "Alma-Marceau",
+            "latitude": 48.8649686,
+            "longitude": 2.3006256
+        },
+        "260769651": {
+            "name": "Saint-Philippe du Roule",
+            "latitude": 48.8723362,
+            "longitude": 2.3100827
+        },
+        "260769652": {
+            "name": "Miromesnil",
+            "latitude": 48.8736855,
+            "longitude": 2.314468
+        },
+        "261162833": {
+            "name": "Sèvres-Babylone",
+            "latitude": 48.851378,
+            "longitude": 2.3269335
+        },
+        "261611470": {
+            "name": "Mairie de Clichy",
+            "latitude": 48.9032278,
+            "longitude": 2.3059879
+        },
+        "261611884": {
+            "name": "Brochant",
+            "latitude": 48.8905558,
+            "longitude": 2.3202055
+        },
+        "261612240": {
+            "name": "La Fourche",
+            "latitude": 48.8871728,
+            "longitude": 2.3257792
+        },
+        "261665825": {
+            "name": "Ségur",
+            "latitude": 48.8470114,
+            "longitude": 2.3074897
+        },
+        "261666122": {
+            "name": "Avenue Émile Zola",
+            "latitude": 48.8470132,
+            "longitude": 2.2953191
+        },
+        "263497271": {
+            "name": "Assemblée Nationale",
+            "latitude": 48.860697,
+            "longitude": 2.3210551
+        },
+        "263497272": {
+            "name": "Solférino",
+            "latitude": 48.8586528,
+            "longitude": 2.3230256
+        },
+        "263499468": {
+            "name": "Rennes",
+            "latitude": 48.8481093,
+            "longitude": 2.3278803
+        },
+        "263499471": {
+            "name": "Notre-Dame des Champs",
+            "latitude": 48.8452749,
+            "longitude": 2.3286803
+        },
+        "263917856": {
+            "name": "Concorde",
+            "latitude": 48.8656344,
+            "longitude": 2.3227573
+        },
+        "264117312": {
+            "name": "Madeleine",
+            "latitude": 48.8694436,
+            "longitude": 2.3251705
+        },
+        "264469160": {
+            "name": "Commerce",
+            "latitude": 48.8446757,
+            "longitude": 2.2938486
+        },
+        "264469541": {
+            "name": "École Militaire",
+            "latitude": 48.8546647,
+            "longitude": 2.3060728
+        },
+        "264473011": {
+            "name": "La Tour Maubourg",
+            "latitude": 48.8575602,
+            "longitude": 2.3103234
+        },
+        "264473695": {
+            "name": "Invalides",
+            "latitude": 48.8618013,
+            "longitude": 2.3139121
+        },
+        "264476971": {
+            "name": "Filles du Calvaire",
+            "latitude": 48.8633194,
+            "longitude": 2.3666124
+        },
+        "264479724": {
+            "name": "Saint-Sébastien - Froissart",
+            "latitude": 48.8610965,
+            "longitude": 2.3672267
+        },
+        "264479775": {
+            "name": "Chemin Vert",
+            "latitude": 48.8574497,
+            "longitude": 2.3681089
+        },
+        "264480619": {
+            "name": "Bastille",
+            "latitude": 48.8531864,
+            "longitude": 2.3684891
+        },
+        "264480784": {
+            "name": "Ledru-Rollin",
+            "latitude": 48.8512945,
+            "longitude": 2.3760274
+        },
+        "264481019": {
+            "name": "Faidherbe — Chaligny",
+            "latitude": 48.8501609,
+            "longitude": 2.3842222
+        },
+        "264481854": {
+            "name": "Montgallet",
+            "latitude": 48.844304,
+            "longitude": 2.3901962
+        },
+        "264482226": {
+            "name": "Michel Bizot",
+            "latitude": 48.8370694,
+            "longitude": 2.4024586
+        },
+        "264482296": {
+            "name": "Liberté",
+            "latitude": 48.8264064,
+            "longitude": 2.406201
+        },
+        "264482297": {
+            "name": "Porte Dorée",
+            "latitude": 48.8352765,
+            "longitude": 2.4061775
+        },
+        "264490283": {
+            "name": "Picpus",
+            "latitude": 48.8450751,
+            "longitude": 2.40108
+        },
+        "264491193": {
+            "name": "Olympiades",
+            "latitude": 48.8270333,
+            "longitude": 2.3664158
+        },
+        "264491320": {
+            "name": "Porte de Charenton",
+            "latitude": 48.8322315,
+            "longitude": 2.3990408
+        },
+        "264494507": {
+            "name": "Pyramides",
+            "latitude": 48.8657589,
+            "longitude": 2.3344261
+        },
+        "264495077": {
+            "name": "Trinité d'Estienne d'Orves",
+            "latitude": 48.8763251,
+            "longitude": 2.3326415
+        },
+        "264495078": {
+            "name": "Notre-Dame de Lorette",
+            "latitude": 48.8759935,
+            "longitude": 2.3385437
+        },
+        "264495553": {
+            "name": "Rue du Bac",
+            "latitude": 48.8557241,
+            "longitude": 2.3256659
+        },
+        "264504832": {
+            "name": "Saint-Georges",
+            "latitude": 48.8784469,
+            "longitude": 2.337458
+        },
+        "264505115": {
+            "name": "Abbesses",
+            "latitude": 48.8845677,
+            "longitude": 2.3379294
+        },
+        "264505153": {
+            "name": "Lamarck - Caulaincourt",
+            "latitude": 48.8897543,
+            "longitude": 2.3388254
+        },
+        "264505450": {
+            "name": "Jules Joffrin",
+            "latitude": 48.8924628,
+            "longitude": 2.3446394
+        },
+        "264505930": {
+            "name": "Porte de la Chapelle",
+            "latitude": 48.8977035,
+            "longitude": 2.3594563
+        },
+        "264505993": {
+            "name": "Simplon",
+            "latitude": 48.8938481,
+            "longitude": 2.3478412
+        },
+        "264508125": {
+            "name": "Gare du Nord (métro)",
+            "latitude": 48.8795066,
+            "longitude": 2.3572848
+        },
+        "264508548": {
+            "name": "Gare de l'Est",
+            "latitude": 48.8762027,
+            "longitude": 2.3579127
+        },
+        "264509793": {
+            "name": "Étienne Marcel",
+            "latitude": 48.8640323,
+            "longitude": 2.3498703
+        },
+        "264512252": {
+            "name": "Château d'Eau",
+            "latitude": 48.8728919,
+            "longitude": 2.3563063
+        },
+        "264513655": {
+            "name": "Les Halles",
+            "latitude": 48.8625356,
+            "longitude": 2.3457954
+        },
+        "264514896": {
+            "name": "Cité",
+            "latitude": 48.8552968,
+            "longitude": 2.3475476
+        },
+        "264515098": {
+            "name": "Saint-Michel",
+            "latitude": 48.8533014,
+            "longitude": 2.3435309
+        },
+        "264519782": {
+            "name": "Saint-Germain-des-Prés",
+            "latitude": 48.853638,
+            "longitude": 2.3344604
+        },
+        "264520061": {
+            "name": "Saint-Placide",
+            "latitude": 48.8471196,
+            "longitude": 2.3270286
+        },
+        "264526095": {
+            "name": "Vavin",
+            "latitude": 48.8422164,
+            "longitude": 2.3290114
+        },
+        "264534423": {
+            "name": "Charles Michels",
+            "latitude": 48.8465262,
+            "longitude": 2.2858801
+        },
+        "264534424": {
+            "name": "Javel - André Citroën",
+            "latitude": 48.8461584,
+            "longitude": 2.2783035
+        },
+        "264534683": {
+            "name": "Église d'Auteuil",
+            "latitude": 48.8473406,
+            "longitude": 2.2686929
+        },
+        "264535735": {
+            "name": "Porte d'Auteuil",
+            "latitude": 48.8479478,
+            "longitude": 2.2586493
+        },
+        "264537727": {
+            "name": "Chardon Lagache",
+            "latitude": 48.845414,
+            "longitude": 2.267172
+        },
+        "264538576": {
+            "name": "Mirabeau",
+            "latitude": 48.8468038,
+            "longitude": 2.2717155
+        },
+        "264539964": {
+            "name": "Boulogne - Jean Jaurès",
+            "latitude": 48.841978,
+            "longitude": 2.238742
+        },
+        "264541617": {
+            "name": "Boulogne - Pont de Saint-Cloud",
+            "latitude": 48.8407449,
+            "longitude": 2.2285445
+        },
+        "264591604": {
+            "name": "Goncourt",
+            "latitude": 48.8699553,
+            "longitude": 2.3710845
+        },
+        "264592424": {
+            "name": "Rambuteau",
+            "latitude": 48.8617782,
+            "longitude": 2.3538089
+        },
+        "264690370": {
+            "name": "Télégraphe",
+            "latitude": 48.8755038,
+            "longitude": 2.3990509
+        },
+        "264690372": {
+            "name": "Pyrénées",
+            "latitude": 48.8738565,
+            "longitude": 2.3852638
+        },
+        "264692522": {
+            "name": "Jourdain",
+            "latitude": 48.8750834,
+            "longitude": 2.3893555
+        },
+        "264704365": {
+            "name": "Gaîté",
+            "latitude": 48.8386332,
+            "longitude": 2.3224866
+        },
+        "264712432": {
+            "name": "Plaisance",
+            "latitude": 48.8317799,
+            "longitude": 2.3140252
+        },
+        "264712433": {
+            "name": "Pernety",
+            "latitude": 48.8339551,
+            "longitude": 2.3180764
+        },
+        "264717964": {
+            "name": "Malakoff - Plateau de Vanves",
+            "latitude": 48.8225032,
+            "longitude": 2.2984833
+        },
+        "264769296": {
+            "name": "Bréguet-Sabin",
+            "latitude": 48.8566333,
+            "longitude": 2.3704333
+        },
+        "264769297": {
+            "name": "Richard Lenoir",
+            "latitude": 48.8602134,
+            "longitude": 2.3720741
+        },
+        "264772256": {
+            "name": "Laumière",
+            "latitude": 48.8851633,
+            "longitude": 2.3794612
+        },
+        "264772371": {
+            "name": "Ourcq",
+            "latitude": 48.8870606,
+            "longitude": 2.3866783
+        },
+        "264772861": {
+            "name": "Porte de Pantin",
+            "latitude": 48.8886492,
+            "longitude": 2.3926738
+        },
+        "264772862": {
+            "name": "Hoche",
+            "latitude": 48.89128,
+            "longitude": 2.4025383
+        },
+        "264775552": {
+            "name": "Louis Blanc",
+            "latitude": 48.8815852,
+            "longitude": 2.3659215
+        },
+        "264775805": {
+            "name": "Poissonnière",
+            "latitude": 48.8772374,
+            "longitude": 2.3493387
+        },
+        "264776028": {
+            "name": "Riquet",
+            "latitude": 48.8884812,
+            "longitude": 2.3742226
+        },
+        "264776029": {
+            "name": "Crimée",
+            "latitude": 48.8908513,
+            "longitude": 2.3773681
+        },
+        "264776910": {
+            "name": "Corentin Cariou",
+            "latitude": 48.8947282,
+            "longitude": 2.3823046
+        },
+        "264778142": {
+            "name": "Porte de la Villette",
+            "latitude": 48.8974039,
+            "longitude": 2.385591
+        },
+        "264780946": {
+            "name": "Le Peletier",
+            "latitude": 48.874928,
+            "longitude": 2.340364
+        },
+        "264780947": {
+            "name": "Cadet",
+            "latitude": 48.8759424,
+            "longitude": 2.3443098
+        },
+        "264784170": {
+            "name": "Pont Neuf",
+            "latitude": 48.8585528,
+            "longitude": 2.3422603
+        },
+        "264785951": {
+            "name": "Sully - Morland",
+            "latitude": 48.8513954,
+            "longitude": 2.3618174
+        },
+        "264785952": {
+            "name": "Pont Marie",
+            "latitude": 48.8537872,
+            "longitude": 2.3565905
+        },
+        "264786014": {
+            "name": "Place Monge",
+            "latitude": 48.8429053,
+            "longitude": 2.3522772
+        },
+        "264789025": {
+            "name": "Censier - Daubenton",
+            "latitude": 48.8406473,
+            "longitude": 2.3519334
+        },
+        "264790337": {
+            "name": "Les Gobelins",
+            "latitude": 48.8356445,
+            "longitude": 2.3527513
+        },
+        "264794353": {
+            "name": "Pré Saint-Gervais",
+            "latitude": 48.8799345,
+            "longitude": 2.3990632
+        },
+        "264794354": {
+            "name": "Danube",
+            "latitude": 48.8819444,
+            "longitude": 2.3933608
+        },
+        "264795933": {
+            "name": "Mairie des Lilas",
+            "latitude": 48.8797602,
+            "longitude": 2.4164717
+        },
+        "264796181": {
+            "name": "Saint-Fargeau",
+            "latitude": 48.8715218,
+            "longitude": 2.4043104
+        },
+        "264796182": {
+            "name": "Pelleport",
+            "latitude": 48.8680997,
+            "longitude": 2.4013152
+        },
+        "265055434": {
+            "name": "Saint-Marcel",
+            "latitude": 48.8382761,
+            "longitude": 2.3608491
+        },
+        "265055750": {
+            "name": "Campo-Formio",
+            "latitude": 48.8356545,
+            "longitude": 2.3589273
+        },
+        "265060052": {
+            "name": "Guy Môquet",
+            "latitude": 48.8927063,
+            "longitude": 2.327395
+        },
+        "265060832": {
+            "name": "Porte de Saint-Ouen",
+            "latitude": 48.8973715,
+            "longitude": 2.3289008
+        },
+        "265060965": {
+            "name": "Garibaldi",
+            "latitude": 48.906204,
+            "longitude": 2.331871
+        },
+        "268467197": {
+            "name": "Tolbiac",
+            "latitude": 48.8260904,
+            "longitude": 2.3573505
+        },
+        "268467526": {
+            "name": "Maison Blanche",
+            "latitude": 48.8224745,
+            "longitude": 2.358504
+        },
+        "268467559": {
+            "name": "Porte d'Italie",
+            "latitude": 48.8190866,
+            "longitude": 2.359533
+        },
+        "269337980": {
+            "name": "Les Agnettes",
+            "latitude": 48.9231172,
+            "longitude": 2.2862019
+        },
+        "269337982": {
+            "name": "Asnières – Gennevilliers – Les Courtilles",
+            "latitude": 48.9307562,
+            "longitude": 2.2841827
+        },
+        "270244435": {
+            "name": "Fort d'Aubervilliers",
+            "latitude": 48.9142573,
+            "longitude": 2.4038072
+        },
+        "270244436": {
+            "name": "Aubervilliers - Pantin - Quatre Chemins",
+            "latitude": 48.9036279,
+            "longitude": 2.3922499
+        },
+        "270244850": {
+            "name": "La Courneuve - 8 mai 1945",
+            "latitude": 48.9207587,
+            "longitude": 2.4107677
+        },
+        "282635141": {
+            "name": "Champs-Élysées - Clemenceau",
+            "latitude": 48.8678013,
+            "longitude": 2.3138853
+        },
+        "300867961": {
+            "name": "Créteil — L'Échat (Hôpital Henri Mondor)",
+            "latitude": 48.7963514,
+            "longitude": 2.449235
+        },
+        "300869611": {
+            "name": "Créteil Université",
+            "latitude": 48.7899066,
+            "longitude": 2.4504803
+        },
+        "300869641": {
+            "name": "Créteil — Préfecture (Hôtel de Ville)",
+            "latitude": 48.7797556,
+            "longitude": 2.4594504
+        },
+        "300870184": {
+            "name": "Maisons-Alfort — Les Juilliottes",
+            "latitude": 48.8033311,
+            "longitude": 2.4456085
+        },
+        "300870186": {
+            "name": "Maisons-Alfort — Stade",
+            "latitude": 48.8090371,
+            "longitude": 2.4347211
+        },
+        "300876896": {
+            "name": "École Vétérinaire de Maisons-Alfort",
+            "latitude": 48.8150196,
+            "longitude": 2.4217316
+        },
+        "300877457": {
+            "name": "Charenton-Écoles",
+            "latitude": 48.8215612,
+            "longitude": 2.4137829
+        },
+        "313428413": {
+            "name": "Mairie de Saint-Ouen",
+            "latitude": 48.9119254,
+            "longitude": 2.3339027
+        },
+        "313430306": {
+            "name": "Carrefour Pleyel",
+            "latitude": 48.9195753,
+            "longitude": 2.3433012
+        },
+        "318536832": {
+            "name": "Villejuif - Léo Lagrange",
+            "latitude": 48.8051317,
+            "longitude": 2.3637903
+        },
+        "318536848": {
+            "name": "Villejuif–Louis Aragon",
+            "latitude": 48.7869402,
+            "longitude": 2.3673857
+        },
+        "318536943": {
+            "name": "Villejuif - Paul Vaillant Couturier",
+            "latitude": 48.7960877,
+            "longitude": 2.3683672
+        },
+        "318537042": {
+            "name": "Le Kremlin-Bicêtre",
+            "latitude": 48.810328,
+            "longitude": 2.3622359
+        },
+        "324352448": {
+            "name": "Saint-Sulpice",
+            "latitude": 48.8511006,
+            "longitude": 2.3307247
+        },
+        "324363999": {
+            "name": "Montparnasse-Bienvenüe",
+            "latitude": 48.8439798,
+            "longitude": 2.3242652
+        },
+        "326309672": {
+            "name": "Château Landon",
+            "latitude": 48.8788951,
+            "longitude": 2.3624612
+        },
+        "330026020": {
+            "name": "Église de Pantin",
+            "latitude": 48.8932564,
+            "longitude": 2.4133107
+        },
+        "331514770": {
+            "name": "Liège",
+            "latitude": 48.8796037,
+            "longitude": 2.3270241
+        },
+        "331523267": {
+            "name": "Saint-Denis Porte de Paris",
+            "latitude": 48.9300243,
+            "longitude": 2.3562706
+        },
+        "331524254": {
+            "name": "Saint-Denis-Université",
+            "latitude": 48.9458487,
+            "longitude": 2.3645665
+        },
+        "338930214": {
+            "name": "Bir-Hakeim",
+            "latitude": 48.8538982,
+            "longitude": 2.2893959
+        },
+        "355153536": {
+            "name": "Billancourt",
+            "latitude": 48.8317277,
+            "longitude": 2.2373655
+        },
+        "370455978": {
+            "name": "Pont de Sèvres",
+            "latitude": 48.8296613,
+            "longitude": 2.2308732
+        },
+        "472985883": {
+            "name": "Porte de Choisy",
+            "latitude": 48.8201086,
+            "longitude": 2.3647992
+        },
+        "472985884": {
+            "name": "Porte d'Ivry",
+            "latitude": 48.8216697,
+            "longitude": 2.3693224
+        },
+        "472985885": {
+            "name": "Pierre et Marie Curie",
+            "latitude": 48.8159011,
+            "longitude": 2.3773455
+        },
+        "472985886": {
+            "name": "Mairie d'Ivry",
+            "latitude": 48.8109896,
+            "longitude": 2.3839963
+        },
+        "473070143": {
+            "name": "Vaneau",
+            "latitude": 48.8491427,
+            "longitude": 2.3218878
+        },
+        "634996117": {
+            "name": "Saint-Lazare",
+            "latitude": 48.8757002,
+            "longitude": 2.3278994
+        },
+        "838533003": {
+            "name": "Ternes",
+            "latitude": 48.8782743,
+            "longitude": 2.2990808
+        },
+        "928458344": {
+            "name": "Créteil — Pointe du Lac",
+            "latitude": 48.7687211,
+            "longitude": 2.4643844
+        },
+        "1480535477": {
+            "name": "Barbès - Rochechouart",
+            "latitude": 48.8837697,
+            "longitude": 2.3496271
+        },
+        "1481147746": {
+            "name": "Marcadet - Poissonniers",
+            "latitude": 48.8914837,
+            "longitude": 2.3497296
+        },
+        "1489806669": {
+            "name": "Concorde",
+            "latitude": 48.8665117,
+            "longitude": 2.3218526
+        },
+        "1489806675": {
+            "name": "Invalides",
+            "latitude": 48.860393,
+            "longitude": 2.3148872
+        },
+        "1584432760": {
+            "name": "Bastille",
+            "latitude": 48.8536788,
+            "longitude": 2.3691871
+        },
+        "1656938775": {
+            "name": "Gare de Lyon",
+            "latitude": 48.8434427,
+            "longitude": 2.3740091
+        },
+        "1659843199": {
+            "name": "Sèvres-Lecourbe",
+            "latitude": 48.8456163,
+            "longitude": 2.3095848
+        },
+        "1771632724": {
+            "name": "Bobigny - Pablo Picasso",
+            "latitude": 48.9064052,
+            "longitude": 2.4491919
+        },
+        "1780486821": {
+            "name": "Porte de Clignancourt",
+            "latitude": 48.8973976,
+            "longitude": 2.3448521
+        },
+        "1805529567": {
+            "name": "Montparnasse-Bienvenüe",
+            "latitude": 48.8421016,
+            "longitude": 2.321074
+        },
+        "1981222779": {
+            "name": "Europe",
+            "latitude": 48.8787676,
+            "longitude": 2.3222643
+        },
+        "1997722983": {
+            "name": "Botzaris",
+            "latitude": 48.8794922,
+            "longitude": 2.3885838
+        },
+        "1997722992": {
+            "name": "Jaurès",
+            "latitude": 48.8825949,
+            "longitude": 2.3703263
+        },
+        "2023231831": {
+            "name": "Porte de Vanves",
+            "latitude": 48.827676,
+            "longitude": 2.3054796
+        },
+        "2066461402": {
+            "name": "Place des Fêtes",
+            "latitude": 48.8767737,
+            "longitude": 2.3935636
+        },
+        "2066488458": {
+            "name": "Courcelles",
+            "latitude": 48.8793962,
+            "longitude": 2.3043746
+        },
+        "2075532859": {
+            "name": "Front Populaire",
+            "latitude": 48.9065634,
+            "longitude": 2.3659163
+        },
+        "2188235051": {
+            "name": "Mairie de Montrouge",
+            "latitude": 48.818234,
+            "longitude": 2.3195203
+        },
+        "2490099593": {
+            "name": "Bobigny-Pantin (Raymond Queneau)",
+            "latitude": 48.8954338,
+            "longitude": 2.4251929
+        },
+        "2493410447": {
+            "name": "Porte Maillot",
+            "latitude": 48.8779888,
+            "longitude": 2.2817745
+        },
+        "3146958064": {
+            "name": "Cour Saint-Émilion",
+            "latitude": 48.8335481,
+            "longitude": 2.3859541
+        },
+        "3148750837": {
+            "name": "Pont de Neuilly",
+            "latitude": 48.8849785,
+            "longitude": 2.2596366
+        },
+        "3164606077": {
+            "name": "Châtelet",
+            "latitude": 48.8568781,
+            "longitude": 2.3483592
+        },
+        "3164606078": {
+            "name": "Châtelet",
+            "latitude": 48.8602293,
+            "longitude": 2.3463144
+        },
+        "3164606088": {
+            "name": "Châtelet",
+            "latitude": 48.857814,
+            "longitude": 2.3474541
+        },
+        "3175323853": {
+            "name": "Châtelet",
+            "latitude": 48.8592004,
+            "longitude": 2.3460681
+        },
+        "3417692493": {
+            "name": "Anvers",
+            "latitude": 48.8828803,
+            "longitude": 2.3442565
+        },
+        "3417692501": {
+            "name": "La Chapelle",
+            "latitude": 48.8844068,
+            "longitude": 2.3603057
+        },
+        "3419908162": {
+            "name": "Gare d'Austerlitz",
+            "latitude": 48.8423613,
+            "longitude": 2.3655228
+        },
+        "3419908163": {
+            "name": "Gare d'Austerlitz",
+            "latitude": 48.8423729,
+            "longitude": 2.365661
+        },
+        "3419908164": {
+            "name": "Quai de la Rapée",
+            "latitude": 48.8464943,
+            "longitude": 2.3658953
+        },
+        "3430515272": {
+            "name": "Sentier",
+            "latitude": 48.8677211,
+            "longitude": 2.3455641
+        },
+        "3493828793": {
+            "name": "Gare d'Austerlitz",
+            "latitude": 48.8423727,
+            "longitude": 2.3656105
+        },
+        "3542631493": {
+            "name": "Saint-Lazare",
+            "latitude": 48.875657,
+            "longitude": 2.3253611
+        },
+        "3703619694": {
+            "name": "Hôtel de Ville",
+            "latitude": 48.8573616,
+            "longitude": 2.3520682
+        },
+        "3703620036": {
+            "name": "Victor Hugo",
+            "latitude": 48.8699556,
+            "longitude": 2.2860385
+        },
+        "3763562357": {
+            "name": "Concorde",
+            "latitude": 48.8662052,
+            "longitude": 2.3223767
+        },
+        "3931967758": {
+            "name": "Invalides",
+            "latitude": 48.8608923,
+            "longitude": 2.3144984
+        },
+        "4058743747": {
+            "name": "Gambetta",
+            "latitude": 48.8648767,
+            "longitude": 2.3984496
+        },
+        "4058783101": {
+            "name": "Trocadéro",
+            "latitude": 48.8630487,
+            "longitude": 2.2871436
+        },
+        "4067925155": {
+            "name": "Pigalle",
+            "latitude": 48.8822775,
+            "longitude": 2.3381228
+        },
+        "4075421186": {
+            "name": "Château Rouge",
+            "latitude": 48.8872884,
+            "longitude": 2.3495532
+        },
+        "4083286998": {
+            "name": "Jussieu",
+            "latitude": 48.8459854,
+            "longitude": 2.3548215
+        },
+        "4317589118": {
+            "name": "Charles de Gaulle — Étoile (metro)",
+            "latitude": 48.8749283,
+            "longitude": 2.2958259
+        },
+        "4576903454": {
+            "name": "Porte des Lilas",
+            "latitude": 48.8770575,
+            "longitude": 2.4065474
+        }
+    },
+    "edges": {
+        "928458344": [
+            {
+                "target": "300869641",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "300869641": [
+            {
+                "target": "300869611",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "300869611": [
+            {
+                "target": "300870184",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "300870184": [
+            {
+                "target": "300870186",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "300870186": [
+            {
+                "target": "300876896",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "300876896": [
+            {
+                "target": "300877457",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "300877457": [
+            {
+                "target": "264482296",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "264482296": [
+            {
+                "target": "264491320",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "264491320": [
+            {
+                "target": "264482297",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "264482297": [
+            {
+                "target": "1584432760",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "1584432760": [
+            {
+                "target": "264482226",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "264482226": [
+            {
+                "target": "260762379",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "260762379": [
+            {
+                "target": "264481854",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            },
+            {
+                "target": "245455187",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "264481854": [
+            {
+                "target": "27371892",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "27371892": [
+            {
+                "target": "264481019",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            },
+            {
+                "target": "27371889",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            }
+        ],
+        "264481019": [
+            {
+                "target": "264480784",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "264480784": [
+            {
+                "target": "264479775",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "264479775": [
+            {
+                "target": "264479724",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "264479724": [
+            {
+                "target": "264476971",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "264476971": [
+            {
+                "target": "256897077",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "256897077": [
+            {
+                "target": "256897078",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            },
+            {
+                "target": "243507794",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            },
+            {
+                "target": "256896059",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "256897078": [
+            {
+                "target": "256897079",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "256897079": [
+            {
+                "target": "256897080",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "256897080": [
+            {
+                "target": "243510336",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "243510336": [
+            {
+                "target": "264117312",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            },
+            {
+                "target": "264494507",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "264117312": [
+            {
+                "target": "1489806669",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            },
+            {
+                "target": "1656938775",
+                "line": "Métro 14",
+                "color": "#67328E"
+            },
+            {
+                "target": "263917856",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "1489806669": [
+            {
+                "target": "264473011",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "264473011": [
+            {
+                "target": "264469541",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "264469541": [
+            {
+                "target": "34909170",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "34909170": [
+            {
+                "target": "264469160",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            },
+            {
+                "target": "261665825",
+                "line": "Métro 10",
+                "color": "#DFB039"
+            },
+            {
+                "target": "34909171",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "264469160": [
+            {
+                "target": "260231833",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "260231833": [
+            {
+                "target": "260231832",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "260231832": [
+            {
+                "target": "260231831",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "260231831": [
+            {
+                "target": "260231828",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "260231828": [
+            {
+                "target": "300867961",
+                "line": "Métro 8",
+                "color": "#C5A3CA"
+            }
+        ],
+        "270244850": [
+            {
+                "target": "270244435",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "270244435": [
+            {
+                "target": "270244436",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "270244436": [
+            {
+                "target": "264778142",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "264778142": [
+            {
+                "target": "264776910",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "264776910": [
+            {
+                "target": "264776029",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "264776029": [
+            {
+                "target": "264776028",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "264776028": [
+            {
+                "target": "235377792",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "235377792": [
+            {
+                "target": "264775552",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            },
+            {
+                "target": "264508125",
+                "line": "Métro 5",
+                "color": "#DE8B53"
+            },
+            {
+                "target": "4067925155",
+                "line": "Métro 2",
+                "color": "#216EB4"
+            }
+        ],
+        "264775552": [
+            {
+                "target": "326309672",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "326309672": [
+            {
+                "target": "264508548",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "264508548": [
+            {
+                "target": "264775805",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            },
+            {
+                "target": "251387813",
+                "line": "Métro 5",
+                "color": "#DE8B53"
+            },
+            {
+                "target": "264512252",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            }
+        ],
+        "264775805": [
+            {
+                "target": "264780947",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "264780947": [
+            {
+                "target": "264780946",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "264780946": [
+            {
+                "target": "256897458",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "256897458": [
+            {
+                "target": "243510336",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            },
+            {
+                "target": "256897080",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "264494507": [
+            {
+                "target": "27362259",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "27362259": [
+            {
+                "target": "264784170",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            },
+            {
+                "target": "27362258",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            }
+        ],
+        "264784170": [
+            {
+                "target": "3164606077",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "3164606077": [
+            {
+                "target": "264785952",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "264785952": [
+            {
+                "target": "264785951",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "264785951": [
+            {
+                "target": "4083286998",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "4083286998": [
+            {
+                "target": "264786014",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "264786014": [
+            {
+                "target": "264789025",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "264789025": [
+            {
+                "target": "264790337",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "264790337": [
+            {
+                "target": "235371392",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "235371392": [
+            {
+                "target": "268467197",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            },
+            {
+                "target": "235371394",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "268467197": [
+            {
+                "target": "268467526",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "268467526": [
+            {
+                "target": "268467559",
+                "line": "Métro 7",
+                "color": "#DF9AB1"
+            }
+        ],
+        "1771632724": [
+            {
+                "target": "2490099593",
+                "line": "Métro 5",
+                "color": "#DE8B53"
+            }
+        ],
+        "2490099593": [
+            {
+                "target": "330026020",
+                "line": "Métro 5",
+                "color": "#DE8B53"
+            }
+        ],
+        "330026020": [
+            {
+                "target": "264772862",
+                "line": "Métro 5",
+                "color": "#DE8B53"
+            }
+        ],
+        "264772862": [
+            {
+                "target": "264772861",
+                "line": "Métro 5",
+                "color": "#DE8B53"
+            }
+        ],
+        "264772861": [
+            {
+                "target": "264772371",
+                "line": "Métro 5",
+                "color": "#DE8B53"
+            }
+        ],
+        "264772371": [
+            {
+                "target": "264772256",
+                "line": "Métro 5",
+                "color": "#DE8B53"
+            }
+        ],
+        "264772256": [
+            {
+                "target": "1997722992",
+                "line": "Métro 5",
+                "color": "#DE8B53"
+            }
+        ],
+        "1997722992": [
+            {
+                "target": "235377792",
+                "line": "Métro 5",
+                "color": "#DE8B53"
+            }
+        ],
+        "264508125": [
+            {
+                "target": "264508548",
+                "line": "Métro 5",
+                "color": "#DE8B53"
+            }
+        ],
+        "251387813": [
+            {
+                "target": "256896059",
+                "line": "Métro 5",
+                "color": "#DE8B53"
+            }
+        ],
+        "256896059": [
+            {
+                "target": "264769297",
+                "line": "Métro 5",
+                "color": "#DE8B53"
+            },
+            {
+                "target": "256895609",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "264769297": [
+            {
+                "target": "264769296",
+                "line": "Métro 5",
+                "color": "#DE8B53"
+            }
+        ],
+        "264769296": [
+            {
+                "target": "264480619",
+                "line": "Métro 5",
+                "color": "#DE8B53"
+            }
+        ],
+        "264480619": [
+            {
+                "target": "3419908162",
+                "line": "Métro 5",
+                "color": "#DE8B53"
+            }
+        ],
+        "3419908162": [
+            {
+                "target": "265055434",
+                "line": "Métro 5",
+                "color": "#DE8B53"
+            }
+        ],
+        "265055434": [
+            {
+                "target": "265055750",
+                "line": "Métro 5",
+                "color": "#DE8B53"
+            }
+        ],
+        "265055750": [
+            {
+                "target": "235371392",
+                "line": "Métro 5",
+                "color": "#DE8B53"
+            }
+        ],
+        "3542631493": [
+            {
+                "target": "264117312",
+                "line": "Métro 14",
+                "color": "#67328E"
+            },
+            {
+                "target": "634996117",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            },
+            {
+                "target": "260769652",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "1656938775": [
+            {
+                "target": "260762540",
+                "line": "Métro 14",
+                "color": "#67328E"
+            }
+        ],
+        "260762540": [
+            {
+                "target": "3146958064",
+                "line": "Métro 14",
+                "color": "#67328E"
+            },
+            {
+                "target": "260762378",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "3146958064": [
+            {
+                "target": "264491193",
+                "line": "Métro 14",
+                "color": "#67328E"
+            }
+        ],
+        "1780486821": [
+            {
+                "target": "264505993",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            }
+        ],
+        "264505993": [
+            {
+                "target": "264508548",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            }
+        ],
+        "264512252": [
+            {
+                "target": "256897077",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            }
+        ],
+        "243507794": [
+            {
+                "target": "264509793",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            }
+        ],
+        "264509793": [
+            {
+                "target": "264513655",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            }
+        ],
+        "264513655": [
+            {
+                "target": "3164606078",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            }
+        ],
+        "3164606078": [
+            {
+                "target": "264514896",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            }
+        ],
+        "264514896": [
+            {
+                "target": "264515098",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            }
+        ],
+        "264515098": [
+            {
+                "target": "260079008",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            }
+        ],
+        "260079008": [
+            {
+                "target": "264519782",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            },
+            {
+                "target": "260078622",
+                "line": "Métro 10",
+                "color": "#DFB039"
+            }
+        ],
+        "264519782": [
+            {
+                "target": "324352448",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            }
+        ],
+        "324352448": [
+            {
+                "target": "264520061",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            }
+        ],
+        "264520061": [
+            {
+                "target": "324363999",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            }
+        ],
+        "324363999": [
+            {
+                "target": "264526095",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            },
+            {
+                "target": "244494496",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "264526095": [
+            {
+                "target": "220289389",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            }
+        ],
+        "220289389": [
+            {
+                "target": "220289387",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            }
+        ],
+        "220289387": [
+            {
+                "target": "220289385",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            },
+            {
+                "target": "235369898",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "220289385": [
+            {
+                "target": "220289382",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            }
+        ],
+        "220289382": [
+            {
+                "target": "220289379",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            }
+        ],
+        "220289379": [
+            {
+                "target": "1480535477",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            }
+        ],
+        "1480535477": [
+            {
+                "target": "1481147746",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            }
+        ],
+        "1481147746": [
+            {
+                "target": "2188235051",
+                "line": "Métro 4",
+                "color": "#BB4D98"
+            },
+            {
+                "target": "264505450",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "264541617": [
+            {
+                "target": "264539964",
+                "line": "Métro 10",
+                "color": "#DFB039"
+            }
+        ],
+        "260767428": [
+            {
+                "target": "264537727",
+                "line": "Métro 10",
+                "color": "#DFB039"
+            },
+            {
+                "target": "260767427",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "264538576": [
+            {
+                "target": "264534424",
+                "line": "Métro 10",
+                "color": "#DFB039"
+            }
+        ],
+        "264534424": [
+            {
+                "target": "264534423",
+                "line": "Métro 10",
+                "color": "#DFB039"
+            }
+        ],
+        "264534423": [
+            {
+                "target": "261666122",
+                "line": "Métro 10",
+                "color": "#DFB039"
+            }
+        ],
+        "261666122": [
+            {
+                "target": "34909170",
+                "line": "Métro 10",
+                "color": "#DFB039"
+            }
+        ],
+        "261665825": [
+            {
+                "target": "245250755",
+                "line": "Métro 10",
+                "color": "#DFB039"
+            }
+        ],
+        "245250755": [
+            {
+                "target": "473070143",
+                "line": "Métro 10",
+                "color": "#DFB039"
+            },
+            {
+                "target": "1805529567",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "473070143": [
+            {
+                "target": "261162833",
+                "line": "Métro 10",
+                "color": "#DFB039"
+            }
+        ],
+        "261162833": [
+            {
+                "target": "260079322",
+                "line": "Métro 10",
+                "color": "#DFB039"
+            },
+            {
+                "target": "263499468",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "260079322": [
+            {
+                "target": "260079008",
+                "line": "Métro 10",
+                "color": "#DFB039"
+            }
+        ],
+        "260078622": [
+            {
+                "target": "260078619",
+                "line": "Métro 10",
+                "color": "#DFB039"
+            }
+        ],
+        "260078619": [
+            {
+                "target": "260078615",
+                "line": "Métro 10",
+                "color": "#DFB039"
+            }
+        ],
+        "260078615": [
+            {
+                "target": "4083286998",
+                "line": "Métro 10",
+                "color": "#DFB039"
+            }
+        ],
+        "2075532859": [
+            {
+                "target": "264505930",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "264505930": [
+            {
+                "target": "249335596",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "249335596": [
+            {
+                "target": "1481147746",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "264505450": [
+            {
+                "target": "264505153",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "264505153": [
+            {
+                "target": "264505115",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "264505115": [
+            {
+                "target": "4067925155",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "4067925155": [
+            {
+                "target": "264504832",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            },
+            {
+                "target": "243496025",
+                "line": "Métro 2",
+                "color": "#216EB4"
+            }
+        ],
+        "264504832": [
+            {
+                "target": "264495078",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "264495078": [
+            {
+                "target": "264495077",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "264495077": [
+            {
+                "target": "3542631493",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "634996117": [
+            {
+                "target": "264117312",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "263917856": [
+            {
+                "target": "263497271",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "263497271": [
+            {
+                "target": "263497272",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "263497272": [
+            {
+                "target": "264495553",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "264495553": [
+            {
+                "target": "261162833",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "263499468": [
+            {
+                "target": "263499471",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "263499471": [
+            {
+                "target": "324363999",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "244494496": [
+            {
+                "target": "260764273",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "260764273": [
+            {
+                "target": "244494489",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            },
+            {
+                "target": "260763474",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "244494489": [
+            {
+                "target": "244494486",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "244494486": [
+            {
+                "target": "134305198",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "134305198": [
+            {
+                "target": "134305192",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "134305192": [
+            {
+                "target": "134299013",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "134299013": [
+            {
+                "target": "134299001",
+                "line": "Métro 12",
+                "color": "#328E5B"
+            }
+        ],
+        "370455978": [
+            {
+                "target": "355153536",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "355153536": [
+            {
+                "target": "29588070",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "29588070": [
+            {
+                "target": "260767430",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "260767430": [
+            {
+                "target": "260767429",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "260767429": [
+            {
+                "target": "260767428",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "260767427": [
+            {
+                "target": "260767426",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "260767426": [
+            {
+                "target": "260767425",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "260767425": [
+            {
+                "target": "260767424",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "260767424": [
+            {
+                "target": "260767423",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "260767423": [
+            {
+                "target": "4058783101",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "4058783101": [
+            {
+                "target": "260767422",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            },
+            {
+                "target": "260765390",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "260767422": [
+            {
+                "target": "260769132",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "260769132": [
+            {
+                "target": "27362251",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "27362251": [
+            {
+                "target": "260769651",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "260769651": [
+            {
+                "target": "260769652",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "260769652": [
+            {
+                "target": "256897554",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            },
+            {
+                "target": "282635141",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "256897554": [
+            {
+                "target": "243510337",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "243510337": [
+            {
+                "target": "256897458",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "256895609": [
+            {
+                "target": "256895321",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "256895321": [
+            {
+                "target": "256443438",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "256443438": [
+            {
+                "target": "256443205",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "256443205": [
+            {
+                "target": "241928557",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "241928557": [
+            {
+                "target": "243486950",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            },
+            {
+                "target": "27371892",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            },
+            {
+                "target": "243489718",
+                "line": "Métro 2",
+                "color": "#216EB4"
+            }
+        ],
+        "243486950": [
+            {
+                "target": "256441194",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "256441194": [
+            {
+                "target": "256442276",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "256442276": [
+            {
+                "target": "256442845",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "256442845": [
+            {
+                "target": "255160720",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "255160720": [
+            {
+                "target": "255160722",
+                "line": "Métro 9",
+                "color": "#CDC83F"
+            }
+        ],
+        "241928757": [
+            {
+                "target": "241928758",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            }
+        ],
+        "241928758": [
+            {
+                "target": "243487863",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            }
+        ],
+        "243487863": [
+            {
+                "target": "27371900",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            }
+        ],
+        "27371900": [
+            {
+                "target": "241928557",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            }
+        ],
+        "27371889": [
+            {
+                "target": "27371876",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            }
+        ],
+        "27371876": [
+            {
+                "target": "27371867",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            }
+        ],
+        "27371867": [
+            {
+                "target": "3703619694",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            }
+        ],
+        "3703619694": [
+            {
+                "target": "3175323853",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            },
+            {
+                "target": "264592424",
+                "line": "Métro 11",
+                "color": "#8E6538"
+            }
+        ],
+        "3175323853": [
+            {
+                "target": "27362260",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            }
+        ],
+        "27362260": [
+            {
+                "target": "27362259",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            }
+        ],
+        "27362258": [
+            {
+                "target": "27362257",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            }
+        ],
+        "27362257": [
+            {
+                "target": "282635141",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            }
+        ],
+        "282635141": [
+            {
+                "target": "27362249",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            },
+            {
+                "target": "264473695",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "27362249": [
+            {
+                "target": "4317589118",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            }
+        ],
+        "4317589118": [
+            {
+                "target": "27362240",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            },
+            {
+                "target": "260765385",
+                "line": "Métro 6",
+                "color": "#75c695"
+            },
+            {
+                "target": "3703620036",
+                "line": "Métro 2",
+                "color": "#216EB4"
+            }
+        ],
+        "27362240": [
+            {
+                "target": "2493410447",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            }
+        ],
+        "2493410447": [
+            {
+                "target": "27362238",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            }
+        ],
+        "27362238": [
+            {
+                "target": "3148750837",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            }
+        ],
+        "3148750837": [
+            {
+                "target": "27332092",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            }
+        ],
+        "27332092": [
+            {
+                "target": "137533248",
+                "line": "Métro 1",
+                "color": "#F2C931"
+            }
+        ],
+        "3164606088": [
+            {
+                "target": "3703619694",
+                "line": "Métro 11",
+                "color": "#8E6538"
+            }
+        ],
+        "264592424": [
+            {
+                "target": "243507793",
+                "line": "Métro 11",
+                "color": "#8E6538"
+            }
+        ],
+        "243507793": [
+            {
+                "target": "264591604",
+                "line": "Métro 11",
+                "color": "#8E6538"
+            }
+        ],
+        "264591604": [
+            {
+                "target": "243493845",
+                "line": "Métro 11",
+                "color": "#8E6538"
+            }
+        ],
+        "243493845": [
+            {
+                "target": "264690372",
+                "line": "Métro 11",
+                "color": "#8E6538"
+            }
+        ],
+        "264690372": [
+            {
+                "target": "264692522",
+                "line": "Métro 11",
+                "color": "#8E6538"
+            }
+        ],
+        "264692522": [
+            {
+                "target": "2066461402",
+                "line": "Métro 11",
+                "color": "#8E6538"
+            }
+        ],
+        "2066461402": [
+            {
+                "target": "264690370",
+                "line": "Métro 11",
+                "color": "#8E6538"
+            }
+        ],
+        "264690370": [
+            {
+                "target": "264795933",
+                "line": "Métro 11",
+                "color": "#8E6538"
+            }
+        ],
+        "264795933": [
+            {
+                "target": "4576903454",
+                "line": "Métro 11",
+                "color": "#8E6538"
+            }
+        ],
+        "331524254": [
+            {
+                "target": "331523267",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "331523267": [
+            {
+                "target": "313430306",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "313430306": [
+            {
+                "target": "313428413",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "313428413": [
+            {
+                "target": "265060965",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "265060965": [
+            {
+                "target": "265060832",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "265060832": [
+            {
+                "target": "265060052",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "265060052": [
+            {
+                "target": "269337982",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "269337982": [
+            {
+                "target": "269337980",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "269337980": [
+            {
+                "target": "249524554",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "249524554": [
+            {
+                "target": "261611470",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "261611470": [
+            {
+                "target": "261611884",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "261611884": [
+            {
+                "target": "261612240",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "261612240": [
+            {
+                "target": "243496027",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "243496027": [
+            {
+                "target": "331514770",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            },
+            {
+                "target": "243496028",
+                "line": "Métro 2",
+                "color": "#216EB4"
+            }
+        ],
+        "331514770": [
+            {
+                "target": "3542631493",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "264473695": [
+            {
+                "target": "245250759",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "245250759": [
+            {
+                "target": "245250758",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "245250758": [
+            {
+                "target": "245250755",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "1805529567": [
+            {
+                "target": "264704365",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            },
+            {
+                "target": "220289389",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "264704365": [
+            {
+                "target": "264712433",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "264712433": [
+            {
+                "target": "264712432",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "264712432": [
+            {
+                "target": "2023231831",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "2023231831": [
+            {
+                "target": "264717964",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "264717964": [
+            {
+                "target": "12388534",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "12388534": [
+            {
+                "target": "12388528",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "12388528": [
+            {
+                "target": "3931967758",
+                "line": "Métro 13",
+                "color": "#89C7D6"
+            }
+        ],
+        "260765385": [
+            {
+                "target": "260765387",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "260765387": [
+            {
+                "target": "4058783101",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "260765390": [
+            {
+                "target": "338930214",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "338930214": [
+            {
+                "target": "34909187",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "34909187": [
+            {
+                "target": "34909170",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "34909171": [
+            {
+                "target": "1659843199",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "260763474": [
+            {
+                "target": "1805529567",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "235369898": [
+            {
+                "target": "235370184",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "235370184": [
+            {
+                "target": "235370505",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "235370505": [
+            {
+                "target": "235371392",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "235371394": [
+            {
+                "target": "235371395",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "235371395": [
+            {
+                "target": "235374383",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "235374383": [
+            {
+                "target": "260762540",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "260762378": [
+            {
+                "target": "260762379",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "245455187": [
+            {
+                "target": "264490283",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "264490283": [
+            {
+                "target": "241928557",
+                "line": "Métro 6",
+                "color": "#75c695"
+            }
+        ],
+        "243489718": [
+            {
+                "target": "243490764",
+                "line": "Métro 2",
+                "color": "#216EB4"
+            }
+        ],
+        "243490764": [
+            {
+                "target": "243490763",
+                "line": "Métro 2",
+                "color": "#216EB4"
+            }
+        ],
+        "243490763": [
+            {
+                "target": "243490762",
+                "line": "Métro 2",
+                "color": "#216EB4"
+            }
+        ],
+        "243490762": [
+            {
+                "target": "243490761",
+                "line": "Métro 2",
+                "color": "#216EB4"
+            }
+        ],
+        "243490761": [
+            {
+                "target": "243493846",
+                "line": "Métro 2",
+                "color": "#216EB4"
+            }
+        ],
+        "243493916": [
+            {
+                "target": "1997722992",
+                "line": "Métro 2",
+                "color": "#216EB4"
+            }
+        ],
+        "243496025": [
+            {
+                "target": "243496027",
+                "line": "Métro 2",
+                "color": "#216EB4"
+            }
+        ],
+        "243496028": [
+            {
+                "target": "243496029",
+                "line": "Métro 2",
+                "color": "#216EB4"
+            }
+        ],
+        "243496029": [
+            {
+                "target": "243496030",
+                "line": "Métro 2",
+                "color": "#216EB4"
+            }
+        ],
+        "243496030": [
+            {
+                "target": "2066488458",
+                "line": "Métro 2",
+                "color": "#216EB4"
+            }
+        ],
+        "2066488458": [
+            {
+                "target": "838533003",
+                "line": "Métro 2",
+                "color": "#216EB4"
+            }
+        ],
+        "838533003": [
+            {
+                "target": "4317589118",
+                "line": "Métro 2",
+                "color": "#216EB4"
+            }
+        ],
+        "3703620036": [
+            {
+                "target": "243496729",
+                "line": "Métro 2",
+                "color": "#216EB4"
+            }
+        ]
+    }
+}
