@@ -68,7 +68,7 @@ def insert_nodes():
             cursor = conn.cursor()
             for (key, value) in nodes.items():
                 cursor.execute("""
-                    INSERT INTO nodes (source, target, line, color, weight) VALUES
+                    INSERT INTO nodes (id, name, latitude, longitude) VALUES
                         (?,?,?,?)""", 
                     (key, value["name"], value["latitude"], value["longitude"]))
     except Exception as err:
@@ -97,9 +97,8 @@ def insert_edges():
                     weight = haversine(lat1, lng1, lat2, lng2)
                     cursor.execute("""
                         INSERT INTO edges (source, target, line, color, weight) VALUES
-                            (?,?,?,?,?)
-                    """,
-                    (key, edge_detail["target"], edge_detail["line"], edge_detail["color"], weight))
+                            (?,?,?,?,?)""",
+                        (key, edge_detail["target"], edge_detail["line"], edge_detail["color"], weight))
     except Exception as err:
         print(err)
     finally:
