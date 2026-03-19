@@ -1,6 +1,7 @@
 import sqlite3
 import json
 import os
+from algorithm import haversine
 
 def init_db():
     if os.path.exists("database.db"):
@@ -26,8 +27,8 @@ def init_db():
                     target TEXT,
                     line TEXT,
                     color TEXT,
-                    is_active INTEGER DEFAULT 1,
                     weight REAL,
+                    is_active INTEGER DEFAULT 1,
                     FOREIGN KEY (source) REFERENCES nodes(id),
                     FOREIGN KEY (target) REFERENCES nodes(id),
                     PRIMARY KEY (source, target, line)
@@ -55,12 +56,10 @@ def select_table(table: str):
         if conn:
             conn.close()
 
-def insert_data():
+def insert_nodes():
     with open("graph.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-
     nodes = data["nodes"]
-    edges = data["edges"]
 
     conn = None
     try:
@@ -69,19 +68,40 @@ def insert_data():
             cursor = conn.cursor()
             for (key, value) in nodes.items():
                 cursor.execute("""
-                    INSERT INTO nodes (id, name, latitude, longitude) VALUES
+                    INSERT INTO nodes (source, target, line, color, weight) VALUES
                         (?,?,?,?)""", 
                     (key, value["name"], value["latitude"], value["longitude"]))
-            for (key, value) in edges.items():
-                for edge_detail in value:
-                    cursor.execute("""
-                        INSERT INTO edges(source, target, line, color) VALUES
-                            (?,?,?,?)""",
-                    (key, edge_detail["target"], edge_detail["line"], edge_detail["color"]))
-
     except Exception as err:
         print(err)
     finally:
         if conn:
             conn.close()
 
+def insert_edges():
+    with open("graph.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+    nodes = data["nodes"]
+    edges = data["edges"]
+
+    conn = None
+    try:
+        conn = sqlite3.connect("database.db")
+        with conn:
+            cursor = conn.cursor()
+            for (key, value) in edges.items():
+                for edge_detail in value:
+                    lat1 = nodes[key]["latitude"]
+                    lng1 = nodes[key]["longitude"]
+                    lat2 = nodes[edge_detail["target"]]["latitude"]
+                    lng2 = nodes[edge_detail["target"]]["longitude"]
+                    weight = haversine(lat1, lng1, lat2, lng2)
+                    cursor.execute("""
+                        INSERT INTO edges (source, target, line, color, weight) VALUES
+                            (?,?,?,?,?)
+                    """,
+                    (key, edge_detail["target"], edge_detail["line"], edge_detail["color"], weight))
+    except Exception as err:
+        print(err)
+    finally:
+        if conn:
+            conn.close()
